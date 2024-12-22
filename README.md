@@ -12,6 +12,10 @@
 
 This data analysis project aims to provide insights into the sales performance of Adidas company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+![Adidas dashboard](https://github.com/user-attachments/assets/4c166539-bcf7-4cc7-816a-e8fd923d4682)
+
+
+
 ### Data Sources
 
 
@@ -47,3 +51,5 @@ Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
 - Focus on expanding and promoting products in Category Mens street footware.
 - Implement a customer segmentation strategy to target south region customers effectively.
+
+
